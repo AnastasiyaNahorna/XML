@@ -1,0 +1,10 @@
+<bug_report>
+  <ID/name>Keep it brief and use correct terms</ID/name>
+  <Description/summary>If you feel the name is not sufficient, explain the bug in a few words</Description/summary>
+  <Environment>Depending on your browser, operating system, zoom level and screen size, websites may behave differently from one environment to another</Environment>
+  <Console logs>By collecting the console logs your developers will find it a lot easier to reproduce and resolve any bug</Console logs>
+  <Source URL>Make it easy for your developers spot the problem by including the URL of the page where you found the bug</Source URL>
+  <Visual proof>A picture is worth a thousand words</Visual proof>
+  <Steps to reproduce>Make sure to describe, with as much detail as possible, the steps you took before you encountered the bug</Steps to reproduce>
+  <Expected vs. actual results>Explain what results you expected - be as specific as possible</Expected vs. actual results>
+</bug_report>
